@@ -1,1 +1,10 @@
-{"aviso":"Prueba: este aviso llega a todas las teles sin actualizar","textos":{"Mirar":"Para mirar"}}
+{
+  "aviso": "",
+  "textos": {},
+  "fila": {},
+  "ocultar": [],
+  "despertar": 4,
+  "actualizarCadaHoras": 6,
+  "masTardeHoras": 12,
+  "climaMinutos": 30
+}
